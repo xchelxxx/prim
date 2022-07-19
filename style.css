@@ -1,0 +1,25 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	background: #000;
+	
+}
+p
+{
+	font-size: 10px;
+	line-height: 10px;
+	background: url(ha.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 95%;
+	background-position: center;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: rgba(255,255,255,0.2);
+
+}
